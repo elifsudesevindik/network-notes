@@ -11,9 +11,9 @@ IP adresi iki bölümden oluşur:
 - Host kısmı → o ağ içindeki cihazı temsil eder  
 
 Örnek IP:
-```
+
 192.168.1.10
-```
+
 
 ---
 
@@ -32,10 +32,10 @@ Subnet maskesi, IP adresinin hangi kısmının **network**, hangi kısmının **
 
 Örnek:
 
-```
 IP Address: 192.168.1.10
+
 Subnet Mask: 255.255.255.0
-```
+
 
 Bu durumda:
 
@@ -58,9 +58,9 @@ Cihaz başka bir ağa paket göndermek istediğinde:
 3. Gateway paketi doğru ağa yönlendirir  
 
 Örnek:
-```
+
 Gateway: 192.168.1.1
-```
+
 
 ---
 
@@ -84,11 +84,13 @@ Bu bilgiler olmadan:
 
 Bir ofis ağı:
 
-```
+
 IP Address: 192.168.10.25
+
 Subnet Mask: 255.255.255.0
+
 Gateway: 192.168.10.1
-```
+
 
 Bu durumda bilgisayar:
 
